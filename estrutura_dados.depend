@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699144797 source:c:\users\user\documents\area de trabalho\algoritimos\estrutura\estrutura_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1698879389 source:c:\users\user\documents\area de trabalho\algoritimos\estrutura\estrutura_dados\b.c
+	<stdio.h>
+	<stdlib.h>
+
+1698949552 c:\users\user\documents\area de trabalho\algoritimos\estrutura\estrutura_dados\pilha.h
+
+1699143475 source:c:\users\user\documents\area de trabalho\algoritimos\estrutura\estrutura_dados\pilha.c
+
